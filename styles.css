@@ -1,50 +1,99 @@
-/* Student Name:
-   Register Number:
-*/
+<!DOCTYPE html>
+<html lang="en">
 
-/* Apply styles to all elements */
+<head>
+    <meta charset="utf-8">
+    <title>San Joaquin Valley Town Hall</title>
+    <link rel="shortcut icon" href="c:\Users\Student\Pictures\Saved Pictures\images.jfif>
+    <link rel="stylesheet" href="C:\Users\Student\Untitled-1.css
+</head>
 
+<body>
 
-/* Style the html element */
+    <main>
 
+        <header>
+            <h1>📚 Andrew Ross Sorkin</h1>
+            <h2><i>Author of Too Big to Fail</i></h2>
+            <h3>📅 November 2015</h3>
+        </header>
 
-/* Style the body */
+        <section>
+            <img src="..c:\Users\Student\Pictures\Saved Pictures\images.jfif
+                 alt="Andrew Ross Sorkin"
+                 width="260">
 
+            <p>
+                Andrew Ross Sorkin is an award-winning
+                <strong>New York Times</strong> columnist and one of the world's
+                most respected financial journalists. His bestselling book,
+                <i>Too Big to Fail</i>, offers a gripping behind-the-scenes look
+                at the 2008 financial crisis and its global impact.
+            </p>
 
-/* Style the main section */
+            <p>
+                The book received widespread praise from
+                <strong>The Economist</strong>,
+                <strong>The Financial Times</strong>, and
+                <strong>Business Week</strong>. Published by Viking in October
+                2009, it was later adapted into an HBO film directed by
+                <strong>Curtis Hanson</strong>, with a screenplay by
+                <strong>Peter Gould</strong>.
+            </p>
+        </section>
 
+        <section>
+            <h2>⭐ Praise for <i>Too Big to Fail</i></h2>
 
-/* Style h1 */
+            <blockquote>
+                “Vigorously reported, superbly organized...for those of us who
+                didn't pursue MBAs and have the penny-ante salaries to prove it.”
+            </blockquote>
 
+            <p class="cite">
+                <cite>— Julia Keller, Chicago Tribune</cite>
+            </p>
 
-/* Style h2 */
+            <blockquote>
+                “Sorkin's prodigious reporting and lively writing put the reader
+                in the room for some of the biggest-dollar conference calls in
+                history. It's an entertaining, brisk book.”
+            </blockquote>
 
+            <p class="cite">
+                <cite>— Paul M. Barrett, The New York Times Book Review</cite>
+            </p>
+        </section>
 
-/* Style h3 */
+        <section>
+            <h2>🎬 Movie Cast</h2>
 
+            <ul>
+                <li>🎭 William Hurt as <strong>Hank Paulson</strong></li>
+                <li>🎭 Paul Giamatti as <strong>Ben Bernanke</strong></li>
+                <li>🎭 Billy Crudup as <strong>Timothy Geithner</strong></li>
+                <li>🎭 Edward Asner as <strong>Warren Buffett</strong></li>
+            </ul>
+        </section>
 
-/* Style image */
+        <section>
+            <h2>🌟 Interesting Facts</h2>
 
+            <ul>
+                <li>📖 Published on October 20, 2009.</li>
+                <li>🎥 HBO film released on May 23, 2011.</li>
+                <li>🏆 Named one of the best books of the year by leading publications.</li>
+                <li>💼 Explains the events behind the 2008 global financial crisis.</li>
+            </ul>
+        </section>
 
-/* Style paragraph */
+    </main>
 
+    <footer>
+        <p><strong>✨ Prepared by: R. Yazhini ✨</strong></p>
+        <p><strong>Date:</strong> 04/08/2026</p>
+    </footer>
 
-/* Style blockquote */
+</body>
 
-
-/* Style cite */
-
-
-/* Style unordered list */
-
-
-/* Style list items */
-
-
-/* Style the cite class */
-
-
-/* Style footer */
-
-
-/* Style footer paragraphs */
+</html>
